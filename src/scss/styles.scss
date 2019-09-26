@@ -1,0 +1,15 @@
+@import "./base/base";
+@import "./abstracts/variables";
+@import "./layout/container";
+
+
+.gallery {
+  width: 30em;
+  margin-top: 1em;
+}
+
+.btn {
+  font-size: 3rem;
+  cursor: pointer;
+  margin-right: .5em;
+}
