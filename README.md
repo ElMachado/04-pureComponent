@@ -1,4 +1,4 @@
-# webpack-sass-vanillajs
+# PureComponent
 
 Using Sass + vanilla js + Webpack
 
