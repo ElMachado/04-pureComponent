@@ -1,4 +1,4 @@
-# PureComponent
+# 04-PureComponent
 
 Using Sass + vanilla js + Webpack
 
